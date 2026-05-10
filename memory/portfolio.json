@@ -1,0 +1,18 @@
+{
+  "_note": "This file is maintained by the trading agent. Updated after each routine run.",
+  "account_type": "paper",
+  "broker": "alpaca",
+  "account_number": "PA3GLW2CR69Z",
+  "base_url": "https://paper-api.alpaca.markets/v2",
+  "last_updated": "2026-05-11",
+  "cash_balance": 100000,
+  "total_equity": 100000,
+  "buying_power": 200000,
+  "positions": [],
+  "todays_pnl": 0,
+  "total_pnl": 0,
+  "start_equity": 100000,
+  "trading_paused": false,
+  "guardrail_triggered": false,
+  "emergency_stop": false
+}

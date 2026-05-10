@@ -1,0 +1,8 @@
+# Never commit actual API keys
+../alpaca_config.json
+../perplexity_config.json
+*.env
+.env*
+config/secrets.*
+logs/*.log
+*.DS_Store
