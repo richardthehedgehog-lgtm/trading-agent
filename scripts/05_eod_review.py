@@ -112,11 +112,20 @@ Write in first person. Be honest about mistakes. Max 400 words."""
     ]
     save_portfolio(portfolio)
     
-    # Push updated journal to GitHub
+    # Regenerate dashboard data.json
+    try:
+        import subprocess as sp
+        gen_script = BASE_DIR / "scripts" / "generate_dashboard.py"
+        sp.run(["python3", str(gen_script)], capture_output=True, text=True)
+        log("✅ Dashboard data regenerated.")
+    except Exception as e:
+        log(f"Dashboard generation failed: {e}")
+
+    # Push updated journal + dashboard to GitHub
     try:
         import subprocess
         result = subprocess.run(
-            ["git", "-C", str(BASE_DIR), "add", "journal/", "memory/"],
+            ["git", "-C", str(BASE_DIR), "add", "journal/", "memory/", "docs/"],
             capture_output=True, text=True
         )
         result = subprocess.run(
@@ -128,7 +137,7 @@ Write in first person. Be honest about mistakes. Max 400 words."""
             ["git", "-C", str(BASE_DIR), "push"],
             capture_output=True, text=True
         )
-        log("✅ Journal committed and pushed to GitHub.")
+        log("✅ Journal + dashboard committed and pushed to GitHub.")
     except Exception as e:
         log(f"Git push failed: {e}")
     
