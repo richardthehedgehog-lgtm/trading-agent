@@ -4,19 +4,23 @@
   "broker": "alpaca",
   "account_number": "PA3GLW2CR69Z",
   "base_url": "https://paper-api.alpaca.markets/v2",
-  "last_updated": "2026-05-12T07:00:43.865713",
+  "last_updated": "2026-05-13T05:50:18.233205",
   "cash_balance": 95397.82,
-  "total_equity": 100077.29,
+  "total_equity": 100146.52,
   "buying_power": 200000,
   "positions": [
     {
       "symbol": "PANW",
       "qty": 22.0,
-      "unrealized_pl_pct": 1.68
+      "avg_entry": 209.19,
+      "current_price": 215.81,
+      "market_value": 4747.82,
+      "unrealized_pl": 145.64,
+      "unrealized_pl_pct": 3.1649999999999996
     }
   ],
-  "todays_pnl": 0,
-  "total_pnl": 84.36999999999534,
+  "todays_pnl": 47.3,
+  "total_pnl": 146.52000000000407,
   "start_equity": 100000,
   "trading_paused": false,
   "guardrail_triggered": false,

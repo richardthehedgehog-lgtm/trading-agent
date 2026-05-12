@@ -1,29 +1,29 @@
-# Market Context — 2026-05-11
-*Updated: 20:03 AEST*
+# Market Context — 2026-05-12
+*Updated: 20:01 AEST*
 
 ## Pre-Market Overview
 ### Pre-Market Overview
 
-**1. US Pre-Market Futures**  
-S&P 500 Futures: 6,657.50 (+0.10%)  
-NASDAQ 100 Futures: 24,376.75 (+0.07%)  
-DOW Futures: 46,958.00 (+0.12%)  
-Futures mildly higher, pointing to a steady open amid last week's record highs.
+1. **US Pre-Market Futures**:  
+   - S&P 500: +0.10% (6,657.50)  
+   - NASDAQ 100: +0.07% (24,376.75)  
+   - Dow Jones: +0.12% (46,958.00)  
+   All modestly higher in early trading.
 
-**2. Top 5 Market-Moving Stories**  
-- S&P 500 hit ATH at 7,398.51 last week (+0.84%), Nasdaq +1.70% to 26,243.84 on tech earnings.  
-- Bearish RSI divergences signal short-term exhaustion; watch 7,370.50 support.  
-- Robinhood prediction markets price Jun-26 S&P futures >7,550 at 61% odds.  
-- Momentum fatigue noted by Schwab's Ben Watson; potential pullback to 7,308.  
-- VIX futures steady, oil rebound pressuring recent gains.
+2. **Top 5 Market-Moving Stories**:  
+   - Gold surges 0.40% to $4,669.51 amid safe-haven buying.  
+   - Oil (WTI) rallies 1.15% to $113.70 on supply concerns.  
+   - European indices mixed: CAC 40 +1.16%, OMXS30 -1.35%.  
+   - Hang Seng +2.04% leads Asia on China stimulus hopes.  
+   - Robinhood prediction markets peg Jun-26 S&P futures at 7,400 (30¢ odds).
 
-**3. Key Economic Events Today**  
-No major data releases (e.g., CPI). Focus on earnings (ongoing tech reports) and potential Fed commentary. S&P outlook videos highlight weekly technicals for May 11-15.
+3. **Key Economic Events Today**:  
+   No major US data (CPI, Fed speeches) scheduled. Focus on corporate earnings (e.g., ongoing Q1 reports). European markets open with light data.
 
-**4. Overall Risk Sentiment**  
-Risk-on: Uptrend intact with path of least resistance higher, though overbought signals suggest shallow pause. Bulls defend 7,200-7,230.
+4. **Overall Risk Sentiment**: Risk-on. Equities, oil, and EUR/USD (+0.12% to 1.1556) gain; silver dips -0.53%.
 
-**5. Sectors**  
-Tech strong (Nasdaq lead, WDC +3.47%); energy weak (OXY -1.69%, oil bounce). No broad unusual moves pre-market.
+5. **Sectors Showing Unusual Strength/Weakness**:  
+   Strength: Commodities (oil +1.15%, gold +0.40%).  
+   Weakness: Silver futures -0.53%; Swedish OMXS30 -1.35% signals potential tech drag.
 
-*(198 words)*
+(148 words)
