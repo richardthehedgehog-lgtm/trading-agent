@@ -1,29 +1,36 @@
-# Market Context — 2026-05-12
-*Updated: 20:01 AEST*
+# Market Context — 2026-05-13
+*Updated: 20:03 AEST*
 
 ## Pre-Market Overview
-### Pre-Market Overview
+# Pre-Market Overview
 
-1. **US Pre-Market Futures**:  
-   - S&P 500: +0.10% (6,657.50)  
-   - NASDAQ 100: +0.07% (24,376.75)  
-   - Dow Jones: +0.12% (46,958.00)  
-   All modestly higher in early trading.
+## US Futures (as of 6:22 AM ET)
+- **S&P 500 Futures:** 6,657.50 (+0.10%)
+- **Nasdaq 100 Futures:** 24,376.75 (+0.07%)
+- **Dow Jones Futures:** 46,958.00 (+0.12%)
 
-2. **Top 5 Market-Moving Stories**:  
-   - Gold surges 0.40% to $4,669.51 amid safe-haven buying.  
-   - Oil (WTI) rallies 1.15% to $113.70 on supply concerns.  
-   - European indices mixed: CAC 40 +1.16%, OMXS30 -1.35%.  
-   - Hang Seng +2.04% leads Asia on China stimulus hopes.  
-   - Robinhood prediction markets peg Jun-26 S&P futures at 7,400 (30¢ odds).
+All three indices pointing modestly higher, suggesting a cautious recovery after yesterday's turbulence.
 
-3. **Key Economic Events Today**:  
-   No major US data (CPI, Fed speeches) scheduled. Focus on corporate earnings (e.g., ongoing Q1 reports). European markets open with light data.
+## Top Market-Moving Stories
 
-4. **Overall Risk Sentiment**: Risk-on. Equities, oil, and EUR/USD (+0.12% to 1.1556) gain; silver dips -0.53%.
+1. **Inflation Surprise:** PPI came in hotter than expected yesterday, spiking the 10-year Treasury yield over 100 bps in a single session to 4.46% — a massive bond move signaling inflation concerns.
 
-5. **Sectors Showing Unusual Strength/Weakness**:  
-   Strength: Commodities (oil +1.15%, gold +0.40%).  
-   Weakness: Silver futures -0.53%; Swedish OMXS30 -1.35% signals potential tech drag.
+2. **Tech Selloff:** Growth and AI stocks took the hit yesterday (Nvidia, Intel, Micron, SanDisk all sold off hard), dragging Nasdaq down 0.71% despite the broader market resilience.
 
-(148 words)
+3. **Yield Pressure:** The Treasury spike suggests the Fed has little room to cut rates, especially if consumer spending remains strong.
+
+4. **Geopolitical Risks:** Escalating tensions adding to risk headwinds alongside inflation concerns.
+
+5. **Sentiment Disconnect:** Market sentiment gauge at 66.6/100 (greed territory) despite warning signs in growth stocks and rising yields.
+
+## Key Events Today
+- **Retail Sales Data** (critical for Fed policy — if consumers still spending despite rising prices, rate cuts are off the table)
+- No major Fed speeches announced
+
+## Risk Sentiment
+**Risk-Off Leaning.** Yesterday's PPI surprise and 100+ bps Treasury yield spike signal inflation fears outweighing growth optimism. The disconnect between bullish sentiment (66.6/100) and fundamental warning signs (weak growth stocks, yield spike, geopolitical risks) creates asymmetric downside risk.
+
+## Sector Watch
+- **Weakness:** Tech, semiconductors, AI-related names
+- **Strength:** Financials (benefiting from higher yields)
+- Energy positive on oil strength (+1.15% WTI futures)
