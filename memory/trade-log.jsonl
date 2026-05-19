@@ -1,2 +1,3 @@
 # Trade log — append-only JSONL format
 # Each line: {"timestamp": "ISO8601", "action": "buy|sell|hold", "symbol": "AAPL", "qty": 10, "price": 150.00, "reason": "...", "routine": "03"}
+{"timestamp": "2026-05-20T05:50:24.229917", "action": "CLOSE", "symbol": "PANW", "reason": "Claude decision"}

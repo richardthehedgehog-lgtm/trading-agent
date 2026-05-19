@@ -1,31 +1,27 @@
-# Market Context — 2026-05-15
+# Market Context — 2026-05-19
 *Updated: 20:01 AEST*
 
 ## Pre-Market Overview
-1. US index futures (pre‑market)  
-- S&P 500 futures: +0.10% (≈ +6.5 pts)  
-- Nasdaq 100 futures: +0.07% (≈ +18 pts)  
-- Dow Jones futures: +0.12% (≈ +56 pts)  
-Direction: modestly higher across the board.
+**US pre-market futures**
+- **S&P 500:** **+0.10%** to **6,657.5**
+- **Nasdaq 100:** **+0.07%** to **24,376.75**
+- **Dow Jones:** **+0.12%** to **46,958.0**
 
-2. Top 5 market‑moving stories  
-- Follow‑through after record closes in S&P 500 and Nasdaq; AI/chip names still driving leadership.  
-- Hotter‑than‑expected US PPI (+1.4% m/m in April) keeps inflation debate alive but hasn’t derailed risk appetite.  
-- Trump–Xi meetings in China: agreement on keeping the Strait of Hormuz open eases some geopolitical risk premium in oil/shipping.  
-- Strong US retail sales data yesterday reinforcing the “resilient consumer / soft‑landing” narrative.  
-- Volatility down: front VIX futures roughly 10% lower vs a month ago, reflecting reduced demand for hedging.
+**Top 5 market-moving stories**
+1. **Futures are mildly higher** overall, pointing to a slightly positive open.
+2. **Trade/geopolitics remain a key overhang**: markets are still digesting Trump’s China visit and broader U.S.-China uncertainty.
+3. **Rates are steady but elevated**: the 10-year Treasury is around **4.54%** and the 2-year at **4.06%**, keeping pressure on valuation-sensitive stocks.
+4. **Fed policy expectations are stable**: CME FedWatch shows **99.4% odds** the Fed holds rates unchanged in June.
+5. **Selective stock moves remain in focus**, with investors favoring earnings-specific stories rather than broad risk-taking.
 
-3. Key economic events today  
-- US April retail sales (already released, solid beat).  
-- US export/import price indices.  
-- Weekly initial jobless claims.  
-- Several Fed regional presidents scheduled for remarks (markets watching for any shift on timing of rate cuts).  
-- Ongoing flow of tech and semiconductor corporate updates; no mega‑cap earnings, but guidance from chip/AI ecosystem still in focus.
+**Key economic events today**
+- No major macro release is visible in the provided results.
+- Market focus is on **Fed rate expectations**, **Treasury yields**, and any **earnings/pre-earnings guidance** driving single-stock moves.
 
-4. Overall risk sentiment  
-Risk‑on bias: futures up, volatility subdued, cyclicals and high‑beta tech bid, no immediate macro shock.
+**Risk sentiment**
+- **Mild risk-on**, but cautious. Futures are green, yet the move is small and traders are still wary of geopolitics and higher yields.
 
-5. Sector moves / unusual strength or weakness  
-- Strength: Semiconductors and AI‑linked tech (hardware, cloud infrastructure); broader tech continuing to outperform.  
-- Moderate strength: Consumer discretionary, especially names leveraged to strong retail sales.  
-- Relative weakness: Traditional defensives (utilities, staples) lag as investors rotate toward growth/cyclicals; some profit‑taking in rate‑sensitive REITs.
+**Sectors showing unusual strength/weakness**
+- **Strength:** information technology, energy, and utilities were among the stronger sectors recently.
+- **Weakness:** materials and real estate lagged.
+- Overall tone: **sector rotation and selectivity** rather than broad market enthusiasm.
