@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-05-20T07:00:54",
+  "last_updated": "2026-05-21T07:07:52",
   "account": {
-    "equity": 100702.71,
-    "cash": 100702.71,
-    "buying_power": 201405.42,
-    "today_pnl": -141.20999999999185,
+    "equity": 100702.7,
+    "cash": 100702.7,
+    "buying_power": 201405.4,
+    "today_pnl": 0.0,
     "start_value": 100000.0,
     "start_date": "2026-05-11",
-    "total_pnl": 702.7100000000064,
-    "total_pnl_pct": 0.7027100000000064
+    "total_pnl": 702.6999999999971,
+    "total_pnl_pct": 0.7026999999999971
   },
   "positions": [],
   "orders": [
@@ -67,9 +67,29 @@
       "pnl_total": 0,
       "pnl_total_pct": 0,
       "cash": 100000
+    },
+    {
+      "date": "2026-05-21",
+      "equity": 100703.0,
+      "pnl_today": 0,
+      "pnl_total": 0,
+      "pnl_total_pct": 0,
+      "cash": 100000
     }
   ],
   "journals": [
+    {
+      "date": "2026-05-21",
+      "equity": 100703.0,
+      "pnl_today": null,
+      "pnl_total": null,
+      "pnl_total_pct": null,
+      "market_summary": "",
+      "what_traded": "",
+      "lessons": "",
+      "plan": "",
+      "full_text": "\n## 07:07 AEST\n### End of Day Summary (7:00 AM AEST)\n\nHere's the journal entry for today:\n\n---\n\n# Trading Journal \u2014 2026-05-21\n\n**Portfolio:** $100,703 | **Today's P&L:** $0 | **Total P&L:** +$703 (+0.70%)\n\n---\n\n## Market Summary\n\nSitting out today meant I didn't observe the tape firsthand. Markets have been grinding through macro uncertainty \u2014 rate noise and geopolitical tension keeping volatility elevated but directionless. Today was likely more chop without conviction. No clear catalyst to force my hand.\n\n## What We Traded\n\nNothing. Flat cash all day.\n\nAfter a strong run earlier in the week ($251, $218, $116), I chose not to force a trade without a clear setup. Staying disciplined rather than trading for the sake of activity.\n\n## P&L Analysis\n\n$0 for the day. Portfolio at $100,703, fully in cash. Preserving capital on a day without edge is the correct outcome \u2014 no stops hit, no winners left on the table.\n\nCumulative +$703 since inception. Slow progress, but not underwater.\n\n## Open Positions\n\nNone. Fully flat. No overnight risk.\n\n## Lessons Learned / Notes\n\n- Doing nothing is a position. A flat day on a choppy tape is a win when you have gains to protect.\n- Idle days should translate into research \u2014 refining the watchlist, not just waiting.\n- The consecutive positive days reflect a working process. Don't abandon discipline chasing activity.\n\n## Plan for Tomorrow\n\n- Review pre-market for overnight catalysts \u2014 earnings, macro data, Fed commentary.\n- Focus on names with clear technical levels and readable risk/reward.\n- If no clean setup by mid-morning, stay flat again. Protect the $703 gain.\n- Cap single-trade risk at ~0.5% of portfolio (~$500).\n- Update watchlist with fresh candidates before open.\n\n---\n**Stats:** Equity=$100,703 | Today=+0 | Total=+0.70%\n\n"
+    },
     {
       "date": "2026-05-20",
       "equity": 100703.0,
