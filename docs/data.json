@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T07:07:52",
+  "last_updated": "2026-05-22T07:01:01",
   "account": {
     "equity": 100702.7,
     "cash": 100702.7,
@@ -75,9 +75,29 @@
       "pnl_total": 0,
       "pnl_total_pct": 0,
       "cash": 100000
+    },
+    {
+      "date": "2026-05-22",
+      "equity": 100000,
+      "pnl_today": 0,
+      "pnl_total": 703.0,
+      "pnl_total_pct": 0.7,
+      "cash": 100000
     }
   ],
   "journals": [
+    {
+      "date": "2026-05-22",
+      "equity": null,
+      "pnl_today": null,
+      "pnl_total": 703.0,
+      "pnl_total_pct": 0.7,
+      "market_summary": "",
+      "what_traded": "",
+      "lessons": "",
+      "plan": "",
+      "full_text": "\n## 07:00 AEST\n### End of Day Summary (7:00 AM AEST)\n\nHere is the EOD journal entry for 2026-05-22:\n\n---\n\n# Trading Journal - 2026-05-22\n\n**Portfolio Equity:** $100,703 | **P&L:** $0 | **Total:** +$703 (+0.70%) | **Cash:** 100%\n\n---\n\n## Market Summary\n\nFriday session with a holiday weekend ahead. Markets remain cautious \u2014 tariff-driven volatility from recent weeks hasn't resolved, and indices are grinding sideways as macro uncertainty keeps buyers tentative. No major catalysts to shift the picture today.\n\n## What I Traded\n\nNothing. Deliberately sat out. Friday-before-holiday conditions mean thin volume, wide spreads, and elevated weekend gap risk. Nothing on the watchlist offered a clean setup with favorable risk/reward, so the right move was staying flat.\n\n## P&L Analysis\n\n$0 today. After three consecutive positive sessions (+$251, +$218, +$116), the account sits at +$703 since inception. Modest, but capital preservation during choppy conditions is a legitimate win. The recent streak of disciplined no-trades is better than forcing bad setups just to feel active.\n\n## Open Positions\n\nNone. 100% cash, no overnight exposure heading into the long weekend. Intentional.\n\n## Lessons Learned\n\n- Macro noise from tariff headlines keeps reversals sharp and unpredictable \u2014 patience is outperforming aggression right now.\n- I need to tighten my pre-market watchlist prep. A sharper shortlist going in would give me cleaner conviction: either a setup meets criteria or it doesn't, rather than drifting through the session looking for something that isn't there.\n- Total return is small (+0.70%) but drawdown has been near zero. Right trade-off for this environment.\n\n## Plan for Next Session (Tuesday, May 26 \u2014 Post-Holiday)\n\nMarkets closed Monday for Memorial Day. Over the weekend:\n- Review macro setup, update watchlist for any earnings/catalyst events the week of May 26.\n- Look for post-holiday momentum in the first 30 minutes Tuesday \u2014 volume typically picks up after a break.\n- If SPX holds key support, consider re-engaging long selectively. If a tariff headline gaps us down, wait for the first 30-min candle before sizing in.\n- **Risk cap stays at 1% of equity (~$1,007) per trade. No exceptions.**\n\n---\n**Stats:** Equity=$100,703 | Today=+0 | Total=+0.70%\n\n"
+    },
     {
       "date": "2026-05-21",
       "equity": 100703.0,
@@ -88,7 +108,7 @@
       "what_traded": "",
       "lessons": "",
       "plan": "",
-      "full_text": "\n## 07:07 AEST\n### End of Day Summary (7:00 AM AEST)\n\nHere's the journal entry for today:\n\n---\n\n# Trading Journal \u2014 2026-05-21\n\n**Portfolio:** $100,703 | **Today's P&L:** $0 | **Total P&L:** +$703 (+0.70%)\n\n---\n\n## Market Summary\n\nSitting out today meant I didn't observe the tape firsthand. Markets have been grinding through macro uncertainty \u2014 rate noise and geopolitical tension keeping volatility elevated but directionless. Today was likely more chop without conviction. No clear catalyst to force my hand.\n\n## What We Traded\n\nNothing. Flat cash all day.\n\nAfter a strong run earlier in the week ($251, $218, $116), I chose not to force a trade without a clear setup. Staying disciplined rather than trading for the sake of activity.\n\n## P&L Analysis\n\n$0 for the day. Portfolio at $100,703, fully in cash. Preserving capital on a day without edge is the correct outcome \u2014 no stops hit, no winners left on the table.\n\nCumulative +$703 since inception. Slow progress, but not underwater.\n\n## Open Positions\n\nNone. Fully flat. No overnight risk.\n\n## Lessons Learned / Notes\n\n- Doing nothing is a position. A flat day on a choppy tape is a win when you have gains to protect.\n- Idle days should translate into research \u2014 refining the watchlist, not just waiting.\n- The consecutive positive days reflect a working process. Don't abandon discipline chasing activity.\n\n## Plan for Tomorrow\n\n- Review pre-market for overnight catalysts \u2014 earnings, macro data, Fed commentary.\n- Focus on names with clear technical levels and readable risk/reward.\n- If no clean setup by mid-morning, stay flat again. Protect the $703 gain.\n- Cap single-trade risk at ~0.5% of portfolio (~$500).\n- Update watchlist with fresh candidates before open.\n\n---\n**Stats:** Equity=$100,703 | Today=+0 | Total=+0.70%\n\n"
+      "full_text": "\n## 07:07 AEST\n### End of Day Summary (7:00 AM AEST)\n\nHere's the journal entry for today:\n\n---\n\n# Trading Journal \u2014 2026-05-21\n\n**Portfolio:** $100,703 | **Today's P&L:** $0 | **Total P&L:** +$703 (+0.70%)\n\n---\n\n## Market Summary\n\nSitting out today meant I didn't observe the tape firsthand. Markets have been grinding through macro uncertainty \u2014 rate noise and geopolitical tension keeping volatility elevated but directionless. Today was likely more chop without conviction. No clear catalyst to force my hand.\n\n## What We Traded\n\nNothing. Flat cash all day.\n\nAfter a strong run earlier in the week ($251, $218, $116), I chose not to force a trade without a clear setup. Staying disciplined rather than trading for the sake of activity.\n\n## P&L Analysis\n\n$0 for the day. Portfolio at $100,703, fully in cash. Preserving capital on a day without edge is the correct outcome \u2014 no stops hit, no winners left on the table.\n\nCumulative +$703 since inception. Slow progress, but not underwater.\n\n## Open Positions\n\nNone. Fully flat. No overnight risk.\n\n## Lessons Learned / Notes\n\n- Doing nothing is a position. A flat day on a choppy tape is a win when you have gains to protect.\n- Idle days should translate into research \u2014 refining the watchlist, not just waiting.\n- The consecutive positive days reflect a working process. Don't abandon discipline chasing activity.\n\n## Plan for Tomorrow\n\n- Review pre-market for overnight catalysts \u2014 earnings, macro data, Fed commentary.\n- Focus on names with clear technical levels and readable risk/reward.\n- If no clean setup by mid-morning, stay flat again. Protect the $703 gain.\n- Cap single-trade risk at ~0.5% of portfolio (~$500).\n- Update watchlist with fresh candidates before open.\n\n---\n**Stats:** Equity=$100,703 | Today=+0 | Total=+0.70%\n\n\n## 20:01 AEST\n### Pre-Market Research (8PM AEST)\n\n**Market Summary:**\n1. **US Index Futures (approx., pre\u2011market)**  \n- **S&P 500**: +0.10%  \n- **Nasdaq 100**: +0.07%  \n- **Dow Jones**: +0.12%  \nAll three pointing modestly higher, consistent with a mild positive open.\n\n2. **Top Market-Moving Stories (early session)**  \n- **AI/Tech momentum**: Mega-cap tech and AI chip names continue to lead after recent upgrades and strong cloud/AI demand commentary.  \n- **Rates & Fed path**: Yields slightly softer as traders lean toward one Fed cut later this year; recent data seen as cooling but not collapsing growth.  \n- **Oil rebound**: WTI futures up ~1.1% as supply concerns and steady demand expectations support energy.  \n- **Europe higher**: DAX, CAC 40, FTSE MIB all up ~0.7\u20131.2%, adding to global risk appetite.  \n- **FX moves**: USD marginally softer vs EUR and GBP; USD/JPY near 160 keeps focus on potential Japan intervention but impact is contained for now.\n\n3. **Key Economic / Event Watch (US)**  \n- Weekly **jobless claims** and **Philly Fed** (if scheduled today) for growth/labor signals.  \n- **Fed speakers** across the session (focus: timing/likelihood of cuts).  \n- Ongoing **earnings** from mid/ "
     },
     {
       "date": "2026-05-20",
