@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T07:06:15",
+  "last_updated": "2026-05-25T08:02:15",
   "account": {
     "equity": 100702.7,
     "cash": 100702.7,
@@ -91,9 +91,29 @@
       "pnl_total": 703.0,
       "pnl_total_pct": 0.7,
       "cash": 100000
+    },
+    {
+      "date": "2026-05-25",
+      "equity": 100703.0,
+      "pnl_today": 0,
+      "pnl_total": 0,
+      "pnl_total_pct": 0,
+      "cash": 100000
     }
   ],
   "journals": [
+    {
+      "date": "2026-05-25",
+      "equity": 100703.0,
+      "pnl_today": null,
+      "pnl_total": null,
+      "pnl_total_pct": null,
+      "market_summary": "",
+      "what_traded": "",
+      "lessons": "",
+      "plan": "",
+      "full_text": "\n## 08:02 AEST\n### End of Day Summary (7:00 AM AEST)\n\nHere is the journal entry for today:\n\n---\n\n# Trading Journal \u2014 2026-05-25\n\n**Portfolio:** $100,703 | **Today's P&L:** $0 | **Total P&L:** +$703 (+0.70%)\n\n---\n\n## Market Summary\n\nMemorial Day in the US \u2014 markets closed. No trading session today.\n\n## What We Traded\n\nNothing. US equities markets were closed for the holiday. No orders were placed or filled.\n\n## P&L Analysis\n\nFlat day by necessity. Cash sits at $100,703, fully uninvested. The +$703 total gain since inception remains intact, representing a modest but positive start.\n\n## Open Positions\n\nNone. Entirely in cash heading into the long weekend. This is a clean slate going into Tuesday's open.\n\n## Lessons Learned / Notes\n\n- A holiday with no exposure is a stress-free day, but it's worth using the downtime to review the watchlist and prepare setups rather than just waiting for the open.\n- The total P&L (+0.70%) is small but positive \u2014 no drawdowns to recover from. Discipline has kept us out of bad trades.\n- Need to be cautious on the Tuesday open after a long weekend. Volume can be erratic and gaps are common. Avoid chasing early moves.\n\n## Plan for Tomorrow (Tuesday, 2026-05-26)\n\n- Review pre-market data carefully \u2014 watch for gaps on key names.\n- Be patient in the first 30 minutes; let price action settle before entering any position.\n- Identify 2-3 high-conviction setups with defined risk/reward (minimum 2:1) before the open.\n- Keep position sizing conservative \u2014 no more than 5% of equity in any single trade.\n- Set alerts on key levels rather than watching tick-by-tick.\n- If nothing meets the criteria, it's acceptable to stay in cash another day.\n\n---\n**Stats:** Equity=$100,703 | Today=+0 | Total=+0.70%\n\n"
+    },
     {
       "date": "2026-05-23",
       "equity": null,
