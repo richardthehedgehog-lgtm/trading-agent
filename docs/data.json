@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-25T08:02:15",
+  "last_updated": "2026-05-26T07:00:39",
   "account": {
     "equity": 100702.7,
     "cash": 100702.7,
-    "buying_power": 201405.4,
+    "buying_power": 196445.4,
     "today_pnl": 0.0,
     "start_value": 100000.0,
     "start_date": "2026-05-11",
@@ -12,6 +12,17 @@
   },
   "positions": [],
   "orders": [
+    {
+      "id": "dd6a944d-0fbb-447a-8e49-5878db97e72f",
+      "symbol": "ANET",
+      "side": "buy",
+      "qty": 31.0,
+      "type": "limit",
+      "status": "accepted",
+      "filled_at": null,
+      "filled_avg_price": 0.0,
+      "submitted_at": "2026-05-25T13:45:33.960238Z"
+    },
     {
       "id": "66937d2f-1c6f-413b-8312-a7e635d97c8a",
       "symbol": "PANW",
@@ -99,9 +110,29 @@
       "pnl_total": 0,
       "pnl_total_pct": 0,
       "cash": 100000
+    },
+    {
+      "date": "2026-05-26",
+      "equity": 100703.0,
+      "pnl_today": 0,
+      "pnl_total": 0,
+      "pnl_total_pct": 0,
+      "cash": 100000
     }
   ],
   "journals": [
+    {
+      "date": "2026-05-26",
+      "equity": 100703.0,
+      "pnl_today": null,
+      "pnl_total": null,
+      "pnl_total_pct": null,
+      "market_summary": "",
+      "what_traded": "",
+      "lessons": "",
+      "plan": "",
+      "full_text": "\n## 07:00 AEST\n### End of Day Summary (7:00 AM AEST)\n\nHere is the journal entry:\n\n---\n\n# Trading Journal - 2026-05-26\n\n**Portfolio:** $100,703 | **Day P&L:** $0 | **Total P&L:** +$703 (+0.70%)\n\n---\n\n## Market Summary\n\nTuesday after Memorial Day weekend. Markets reopened following the long weekend, which typically brings lighter volume and choppy price action in the first session back. No major catalysts on the calendar to drive a clear directional move. Holiday-return sessions can produce false breakouts and erratic behavior as liquidity normalizes \u2014 a day to observe rather than force trades.\n\n## What We Traded\n\nNothing. Sat on the sidelines entirely with $100,703 in cash.\n\n## P&L Analysis\n\nFlat on the day, which is the right result given the conditions. No trades means no losses, and on a low-conviction day that is acceptable. The +$703 cumulative gain since inception remains intact. The account is fully in cash.\n\n## Open Positions\n\nNone. No active theses to monitor overnight.\n\n## Lessons Learned / Notes\n\nThe recurring pattern here is days of no activity stretching across the full week. I need to be honest with myself: I'm either not finding setups that meet my criteria, or I'm being overly cautious. Both have a cost. The opportunity cost of sitting in cash while the market moves is real, even if harder to see than a realized loss.\n\nThat said, forcing trades to feel productive is worse than patience. The discipline is valid \u2014 the question is whether my scanning and selection process is surfacing candidates at all, or whether I'm not actually running a systematic process.\n\n## Plan for Tomorrow\n\n- Review watchlist for any setups that have matured over the holiday weekend\n- Check sector rotation and broad market internals at the open\n- If no high-conviction setup is present by mid-morning, continue to hold cash\n- Document at least one name I considered and explain why I passed or acted\n\n---\n\nThe file couldn't be saved due to a permissions prompt. Please approve the write if you'd like it persisted to disk.\n\n---\n**Stats:** Equity=$100,703 | Today=+0 | Total=+0.70%\n\n"
+    },
     {
       "date": "2026-05-25",
       "equity": 100703.0,
@@ -112,7 +143,7 @@
       "what_traded": "",
       "lessons": "",
       "plan": "",
-      "full_text": "\n## 08:02 AEST\n### End of Day Summary (7:00 AM AEST)\n\nHere is the journal entry for today:\n\n---\n\n# Trading Journal \u2014 2026-05-25\n\n**Portfolio:** $100,703 | **Today's P&L:** $0 | **Total P&L:** +$703 (+0.70%)\n\n---\n\n## Market Summary\n\nMemorial Day in the US \u2014 markets closed. No trading session today.\n\n## What We Traded\n\nNothing. US equities markets were closed for the holiday. No orders were placed or filled.\n\n## P&L Analysis\n\nFlat day by necessity. Cash sits at $100,703, fully uninvested. The +$703 total gain since inception remains intact, representing a modest but positive start.\n\n## Open Positions\n\nNone. Entirely in cash heading into the long weekend. This is a clean slate going into Tuesday's open.\n\n## Lessons Learned / Notes\n\n- A holiday with no exposure is a stress-free day, but it's worth using the downtime to review the watchlist and prepare setups rather than just waiting for the open.\n- The total P&L (+0.70%) is small but positive \u2014 no drawdowns to recover from. Discipline has kept us out of bad trades.\n- Need to be cautious on the Tuesday open after a long weekend. Volume can be erratic and gaps are common. Avoid chasing early moves.\n\n## Plan for Tomorrow (Tuesday, 2026-05-26)\n\n- Review pre-market data carefully \u2014 watch for gaps on key names.\n- Be patient in the first 30 minutes; let price action settle before entering any position.\n- Identify 2-3 high-conviction setups with defined risk/reward (minimum 2:1) before the open.\n- Keep position sizing conservative \u2014 no more than 5% of equity in any single trade.\n- Set alerts on key levels rather than watching tick-by-tick.\n- If nothing meets the criteria, it's acceptable to stay in cash another day.\n\n---\n**Stats:** Equity=$100,703 | Today=+0 | Total=+0.70%\n\n"
+      "full_text": "\n## 08:02 AEST\n### End of Day Summary (7:00 AM AEST)\n\nHere is the journal entry for today:\n\n---\n\n# Trading Journal \u2014 2026-05-25\n\n**Portfolio:** $100,703 | **Today's P&L:** $0 | **Total P&L:** +$703 (+0.70%)\n\n---\n\n## Market Summary\n\nMemorial Day in the US \u2014 markets closed. No trading session today.\n\n## What We Traded\n\nNothing. US equities markets were closed for the holiday. No orders were placed or filled.\n\n## P&L Analysis\n\nFlat day by necessity. Cash sits at $100,703, fully uninvested. The +$703 total gain since inception remains intact, representing a modest but positive start.\n\n## Open Positions\n\nNone. Entirely in cash heading into the long weekend. This is a clean slate going into Tuesday's open.\n\n## Lessons Learned / Notes\n\n- A holiday with no exposure is a stress-free day, but it's worth using the downtime to review the watchlist and prepare setups rather than just waiting for the open.\n- The total P&L (+0.70%) is small but positive \u2014 no drawdowns to recover from. Discipline has kept us out of bad trades.\n- Need to be cautious on the Tuesday open after a long weekend. Volume can be erratic and gaps are common. Avoid chasing early moves.\n\n## Plan for Tomorrow (Tuesday, 2026-05-26)\n\n- Review pre-market data carefully \u2014 watch for gaps on key names.\n- Be patient in the first 30 minutes; let price action settle before entering any position.\n- Identify 2-3 high-conviction setups with defined risk/reward (minimum 2:1) before the open.\n- Keep position sizing conservative \u2014 no more than 5% of equity in any single trade.\n- Set alerts on key levels rather than watching tick-by-tick.\n- If nothing meets the criteria, it's acceptable to stay in cash another day.\n\n---\n**Stats:** Equity=$100,703 | Today=+0 | Total=+0.70%\n\n\n## 20:01 AEST\n### Pre-Market Research (8PM AEST)\n\n**Market Summary:**\n1. **US Index Futures (pre\u2011market)**  \n- **Dow Jones**: 46,958, **+56 pts (+0.12%)**  \n- **S&P 500**: 6,657.5, **+6.5 pts (+0.10%)**  \n- **Nasdaq 100**: 24,376.75, **+18.25 pts (+0.07%)**  \n\u2192 Slightly higher across the board: modest risk-on tone.\n\n2. **Top 5 Market-Moving Stories (implied from price action/news flow)**  \n- **US\u2013Iran peace progress** supporting global risk assets; dovish geopolitical tone boosting equities.  \n- **AI/chip strength**: ongoing rally in chipmakers and AI-infrastructure names lifting Nasdaq futures.  \n- **Workday and broader software beat**: strong enterprise software earnings underpin tech sentiment.  \n- **Oil rally**: WTI futures **+1.15% to 113.70**, Brent **+0.44% to 110.25**, stoking energy-sector optimism and inflation chatter.  \n- **European equity strength**: DAX **+0.69%**, CAC 40 **+1.16%**, FTSE MIB **+1.14%**, confirming a positive global equity bias.\n\n3. **Key Economic/Policy Events Today**  \nI don\u2019t have a live calendar feed; check a real-time source (e.g., Forex Factory, Econoday, or your broker) for:  \n- Scheduled Fed/ECB/BoE speeches  \n- Any major US data (Durables, confidence, housing)  \n- Today\u2019s earnings: focus on large-c"
     },
     {
       "date": "2026-05-23",
