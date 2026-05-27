@@ -1,33 +1,29 @@
-# Market Context — 2026-05-25
-*Updated: 20:00 AEST*
+# Market Context — 2026-05-27
+*Updated: 20:01 AEST*
 
 ## Pre-Market Overview
-1. **US Index Futures (pre‑market)**  
-- **Dow Jones**: 46,958, **+56 pts (+0.12%)**  
-- **S&P 500**: 6,657.5, **+6.5 pts (+0.10%)**  
-- **Nasdaq 100**: 24,376.75, **+18.25 pts (+0.07%)**  
-→ Slightly higher across the board: modest risk-on tone.
+US equity futures point slightly higher in a cautious, modest **risk‑on** open.
 
-2. **Top 5 Market-Moving Stories (implied from price action/news flow)**  
-- **US–Iran peace progress** supporting global risk assets; dovish geopolitical tone boosting equities.  
-- **AI/chip strength**: ongoing rally in chipmakers and AI-infrastructure names lifting Nasdaq futures.  
-- **Workday and broader software beat**: strong enterprise software earnings underpin tech sentiment.  
-- **Oil rally**: WTI futures **+1.15% to 113.70**, Brent **+0.44% to 110.25**, stoking energy-sector optimism and inflation chatter.  
-- **European equity strength**: DAX **+0.69%**, CAC 40 **+1.16%**, FTSE MIB **+1.14%**, confirming a positive global equity bias.
+1. **US pre‑market futures**[2]  
+- **S&P 500 futures:** +0.10%  
+- **Nasdaq 100 futures:** +0.07%  
+- **Dow Jones futures:** +0.12%  
 
-3. **Key Economic/Policy Events Today**  
-I don’t have a live calendar feed; check a real-time source (e.g., Forex Factory, Econoday, or your broker) for:  
-- Scheduled Fed/ECB/BoE speeches  
-- Any major US data (Durables, confidence, housing)  
-- Today’s earnings: focus on large-cap tech, financials, and cyclicals as they report.
+2. **Top 5 market‑moving stories (global macro focus)**  
+- **US rates outlook:** Futures pricing still implies no near‑term Fed hike, keeping real yields contained and supporting equities.[1]  
+- **Energy and oil move:** WTI crude futures up about **+1.2%**, Brent +0.4%, supporting energy shares and inflation expectations.[2]  
+- **Gold and metals:** Gold futures up about **+0.4%**, while silver slips, reflecting hedging but not full risk‑off.[2]  
+- **Europe positive, Asia mixed:** Major European indices (DAX, CAC, EuroStoxx 50) are all up ~0.6–1.2%, while Asian trade was more muted.[2]  
+- **Crypto and USD:** Dollar broadly steady to slightly weaker vs. EUR/GBP, easing global financial conditions marginally.[2]  
 
-4. **Overall Risk Sentiment**  
-- **Tilt: Risk-on, but measured.**  
-Equities and oil are higher, credit spreads (implied) supportive, no clear flight to safety in FX.
+3. **Key events today**  
+- US macro: industrial production and capacity utilization on the calendar later in the US session.[1]  
+- Fed: market focus on any unscheduled Fed commentary; FedWatch still shows overwhelming odds of no change at the next meeting.[1]  
+- Earnings: select names (tech and consumer) reporting, but no single mega‑cap dominates today’s tape based on pre‑market newsflow.[1]  
 
-5. **Sectors to Watch**  
-- **Strength:**  
-  - **Tech/AI & Semis** – leading on AI enthusiasm and recent beats.  
-  - **Energy** – supported by higher crude prices.  
-- **Potential Weakness:**  
-  - **Rate‑sensitives** (utilities, some REITs) if higher oil rekindles inflation/term premium worries.
+4. **Overall risk sentiment**  
+- Mild **risk‑on**: equities and oil higher, gold higher but not surging, credit/rates backdrop stable.[1][2]  
+
+5. **Sector color**  
+- **Stronger:** energy (oil up >1%), select **tech/growth** with Nasdaq futures green.[2][3]  
+- **Weaker/lagging:** defensive pockets (utilities, staples) after recent outperformance; some materials/real estate remain softer vs. tech/energy trend.[1]
