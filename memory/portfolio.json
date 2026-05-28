@@ -4,24 +4,24 @@
   "broker": "alpaca",
   "account_number": "PA3GLW2CR69Z",
   "base_url": "https://paper-api.alpaca.markets/v2",
-  "last_updated": "2026-05-28T07:00:57.584229",
+  "last_updated": "2026-05-29T07:07:11.004509",
   "cash_balance": 90872.11,
-  "total_equity": 100633.25,
+  "total_equity": 100866.62,
   "buying_power": 200000,
   "positions": [
     {
       "symbol": "ANET",
       "qty": 31.0,
-      "unrealized_pl_pct": -1.012
+      "unrealized_pl_pct": 0.33899999999999997
     },
     {
       "symbol": "MSFT",
       "qty": 12.0,
-      "unrealized_pl_pct": -0.41000000000000003
+      "unrealized_pl_pct": 2.955
     }
   ],
   "todays_pnl": 0,
-  "total_pnl": 602.2799999999988,
+  "total_pnl": 777.0399999999936,
   "start_equity": 100000,
   "trading_paused": false,
   "guardrail_triggered": false,
