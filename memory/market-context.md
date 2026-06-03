@@ -1,28 +1,28 @@
-# Market Context — 2026-05-29
-*Updated: 20:04 AEST*
+# Market Context — 2026-06-03
+*Updated: 20:01 AEST*
 
 ## Pre-Market Overview
-US equity futures are pointing slightly higher, with a modest risk‑on tone led by tech.
+US equity futures are slightly lower in quiet pre-market trading, with mixed risk signals.
 
-1. **US pre‑market futures**[1][2][4]  
-- **S&P 500 futures:** about **+0.7–0.8%**.  
-- **Nasdaq 100 futures:** about **+1.7%**.  
-- **Dow futures:** about **+0.1–0.2%**.  
+1. **US index futures (approximate moves)**  
+- **S&P 500 futures:** about **-0.05%**[1]  
+- **Nasdaq 100 futures:** about **-0.11%**[1]  
+- **Dow Jones futures:** about **-0.03%**[1]  
 
-2. **Top 5 market‑moving stories now**  
-- Continued **AI/chip and infrastructure rally**, with strong earnings and guidance from key semiconductor and AI server names supporting tech and Nasdaq futures.[2][3]  
-- **S&P 500 and Nasdaq 100 at/near record highs**, boosting momentum and dip‑buying appetite.[2][3]  
-- **Energy/oil move:** crude has been volatile; recent declines have eased inflation fears and supported growth stocks.[2]  
-- **Rates/yields lower** versus recent highs, helping duration‑sensitive tech and growth sectors.[2]  
-- Ongoing **US‑Iran geopolitical de‑escalation** headlines that recently supported risk assets and major indices.[3]  
+2. **Top 5 market-moving stories now**  
+- Major US indices just closed at or near **record highs**, supported by strong AI and tech momentum.[2][4]  
+- **AI infrastructure boom:** Marvell Technology up >30% and Hewlett Packard Enterprise up ~19–20% on AI-driven demand and upbeat outlooks.[2][4]  
+- **US labor market strength** (recent data) is reinforcing expectations of a resilient economy, supporting equities.[2]  
+- **Oil prices higher** (WTI +~1.2%, Brent +~0.7%), adding to inflation/watch and sector rotation narratives.[1]  
+- Ongoing **US–Iran geopolitical uncertainty** remains a background risk factor.[4]  
 
-3. **Key economic events today**  
-- No major US CPI/PCE release scheduled; focus is on **Fed speakers and data revisions** (market attention on any guidance about timing/scale of future cuts).  
-- Light but notable **earnings** from second‑tier tech, biotech, and consumer names that could move individual stocks, not the index level.[3]  
+3. **Key economic/market events today**  
+- Futures commentary indicates **no major US data release** driving large moves this morning; trading desks highlight a “little changed” futures session after record closes.[4]  
+- Focus remains on upcoming US macro prints and any scheduled Fed communication (no blockbuster event flagged in pre-market summaries yet).[4]  
 
 4. **Overall risk sentiment**  
-- **Risk‑on**, driven by tech leadership, record‑high benchmarks, and supportive rate backdrop, though moves in Dow futures are more muted.[1][2][3]  
+- **Neutral to mildly risk-on:** US futures are flat to slightly red, but global equities are firm (Europe broadly +0.5–1.8%, Hang Seng +2.5%).[1]  
 
-5. **Sectors showing unusual strength/weakness**  
-- **Strong:** Semiconductors, AI infrastructure, select biotech (top gainers pre‑market).[2][3]  
-- **Weak/lagging:** Traditional defensives (utilities, staples) and some energy names as oil remains choppy.[2]
+5. **Sector/asset strength & weakness**  
+- **Strength:** AI-related **technology, semiconductors, and AI infrastructure** (servers, networking) remain leadership areas.[2][4]  
+- **Weakness:** Slight **softness in US index futures** and **gold down ~0.4%** suggest some easing of defensive positioning.[1]
